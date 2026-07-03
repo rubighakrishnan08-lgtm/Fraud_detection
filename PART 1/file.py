@@ -192,17 +192,17 @@ selected_cols = [
     "isFraud"
 ]
 
-# corr = df[selected_cols].corr()
-# plt.figure(figsize=(8,6))
-# sns.heatmap(
-#     corr,
-#     annot=True,
-#     cmap="coolwarm",
-#     fmt=".2f",
-#     linewidths=0.5
-# )
-# plt.title("Correlation Heatmap")
-# plt.show()
+corr = df[selected_cols].corr()
+plt.figure(figsize=(8,6))
+sns.heatmap(
+    corr,
+    annot=True,
+    cmap="coolwarm",
+    fmt=".2f",
+    linewidths=0.5
+)
+plt.title("Correlation Heatmap")
+plt.show()
 
 corr = df[selected_cols].select_dtypes(include="number").corr()
 np.fill_diagonal(corr.values,0)
@@ -262,5 +262,4 @@ print("\nHighest/Lowest Mean Ratio:", ratio)
 
 # Save the cleaned dataset
 df.to_csv("cleaned_data.csv", index=False)
-
 print("Cleaned dataset saved successfully as 'cleaned_data.csv'")
