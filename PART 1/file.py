@@ -116,60 +116,60 @@ for col in numeric_cols:
     print(f"Number of Outliers: {len(outliers)}")
 
 
-# # Line plot 
-# plt.figure(figsize=(12,5))
-# sample = df.sort_values("TransactionDT").head(1000)
-# plt.plot(sample["TransactionDT"],sample["TransactionAmt"],linewidth=1)
-# plt.title("Transactions Amount over Time")
-# plt.xlabel("Transaction Time ")
-# plt.ylabel("Transaction Amount")
-# plt.grid(True)
-# plt.show()
+# Line plot 
+plt.figure(figsize=(12,5))
+sample = df.sort_values("TransactionDT").head(1000)
+plt.plot(sample["TransactionDT"],sample["TransactionAmt"],linewidth=1)
+plt.title("Transactions Amount over Time")
+plt.xlabel("Transaction Time ")
+plt.ylabel("Transaction Amount")
+plt.grid(True)
+plt.show()
 
-# # Bar Graph
-# mean_amt = df.groupby("ProductCD")['TransactionAmt'].mean()
-# plt.figure(figsize=(7,5))
-# mean_amt.plot(kind='bar')
-# plt.title("Average Transaction Amount by Product")
-# plt.xlabel("Product Category")
-# plt.ylabel("Average Transaction Amount")
-# plt.xticks(rotation=0)
-# plt.show()
+# Bar Graph
+mean_amt = df.groupby("ProductCD")['TransactionAmt'].mean()
+plt.figure(figsize=(7,5))
+mean_amt.plot(kind='bar')
+plt.title("Average Transaction Amount by Product")
+plt.xlabel("Product Category")
+plt.ylabel("Average Transaction Amount")
+plt.xticks(rotation=0)
+plt.show()
 
-# # Histogram graph
-# plt.figure(figsize=(8,5))
-# sns.histplot(df['TransactionAmt'], bins=30)
-# plt.yscale("log")
-# plt.title("Distribution of Transaction Amount")
-# plt.xlabel("Transaction Amount")
-# plt.ylabel("Frequency")
-# plt.show()
+# Histogram graph
+plt.figure(figsize=(8,5))
+sns.histplot(df['TransactionAmt'], bins=30)
+plt.yscale("log")
+plt.title("Distribution of Transaction Amount")
+plt.xlabel("Transaction Amount")
+plt.ylabel("Frequency")
+plt.show()
 
-# # Scatter plot 
-# sample = df.sample(5000, random_state=42)
-# plt.figure(figsize=(8,5))
-# sns.scatterplot(
-#     data=sample,
-#     x='TransactionAmt',
-#     y='D1'
-# )
-# plt.title("Transaction Amount vs D1")
-# plt.xlabel("Transaction Amount")
-# plt.ylabel("D1")
-# plt.show()
+# Scatter plot 
+sample = df.sample(5000, random_state=42)
+plt.figure(figsize=(8,5))
+sns.scatterplot(
+    data=sample,
+    x='TransactionAmt',
+    y='D1'
+)
+plt.title("Transaction Amount vs D1")
+plt.xlabel("Transaction Amount")
+plt.ylabel("D1")
+plt.show()
 
-# # Box plot 
-# plt.figure(figsize=(8,5))
-# sns.boxplot(
-#     data=df,
-#     x='ProductCD',
-#     y='TransactionAmt',
-#     showfliers=False
-# )
-# plt.title("Transaction Amount by Product Category")
-# plt.xlabel("Product")
-# plt.ylabel("Transaction Amount")
-# plt.show()
+# Box plot 
+plt.figure(figsize=(8,5))
+sns.boxplot(
+    data=df,
+    x='ProductCD',
+    y='TransactionAmt',
+    showfliers=False
+)
+plt.title("Transaction Amount by Product Category")
+plt.xlabel("Product")
+plt.ylabel("Transaction Amount")
+plt.show()
 
 # Correlation and plotting heatmap
 # Correlation matrix
