@@ -19,3 +19,17 @@ data/
 # OS
 .DS_Store
 Thumbs.db
+
+
+# Kaggle dataset files (IMPORTANT)
+*.csv
+
+# or specifically
+PART 1/*.csv
+
+# notebooks cache
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
+Thumbs.db
