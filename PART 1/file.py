@@ -262,5 +262,4 @@ print("\nHighest/Lowest Mean Ratio:", ratio)
 
 # Save the cleaned dataset
 df.to_csv("cleaned_data.csv", index=False)
-
 print("Cleaned dataset saved successfully as 'cleaned_data.csv'")
