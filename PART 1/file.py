@@ -19,12 +19,6 @@ print(df.shape)
 
 # # to check the datatype
 print(df.dtypes)
-# Fill missing values in numeric columns with median
-numeric_cols = df.select_dtypes(include=['number']).columns
-
-for col in numeric_cols:
-    if df[col].isnull().sum() > 0:
-        df[col] = df[col].fillna(df[col].median())
 
 # to check null values count and percentage 
 nulls = pd.DataFrame({
