@@ -1,0 +1,49 @@
+{
+  "record_1_temp_0.0": {
+    "prediction_label": "Not Fraud",
+    "confidence_level": "high",
+    "top_reason": "Transaction follows normal historical behaviour.",
+    "second_reason": "Identity verification features appear consistent.",
+    "next_step": "Approve transaction and continue monitoring."
+  },
+
+  "record_1_temp_0.7": {
+    "prediction_label": "Not Fraud",
+    "confidence_level": "high",
+    "top_reason": "The transaction resembles legitimate purchasing behaviour.",
+    "second_reason": "No strong fraud indicators are observed.",
+    "next_step": "Approve transaction while monitoring future activity."
+  },
+
+  "record_2_temp_0.0": {
+    "prediction_label": "Not Fraud",
+    "confidence_level": "high",
+    "top_reason": "Transaction amount and behavioural features appear normal.",
+    "second_reason": "No abnormal identity mismatch detected.",
+    "next_step": "Approve the transaction."
+  },
+
+  "record_2_temp_0.7": {
+    "prediction_label": "Not Fraud",
+    "confidence_level": "high",
+    "top_reason": "The model indicates a low fraud likelihood.",
+    "second_reason": "Behaviour is consistent with previous legitimate transactions.",
+    "next_step": "Proceed with standard processing."
+  },
+
+  "record_3_temp_0.0": {
+    "prediction_label": "Not Fraud",
+    "confidence_level": "high",
+    "top_reason": "Identity verification signals are strong.",
+    "second_reason": "Transaction features remain within expected ranges.",
+    "next_step": "Allow the transaction."
+  },
+
+  "record_3_temp_0.7": {
+    "prediction_label": "Not Fraud",
+    "confidence_level": "high",
+    "top_reason": "Multiple features support a legitimate transaction.",
+    "second_reason": "No significant fraud indicators were detected.",
+    "next_step": "Approve and monitor future activity."
+  }
+}

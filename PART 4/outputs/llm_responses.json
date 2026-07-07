@@ -1,0 +1,17 @@
+[
+    {
+        "sample": 1,
+        "temperature_0": "{\n  \"prediction\": \"Legitimate\",\n  \"confidence\": 1.0,\n  \"summary\": \"Low risk transaction with a recognized email domain and a common payment method\",\n  \"risk_factors\": [],\n  \"recommendation\": \"Approve transaction\"\n}",
+        "temperature_07": "{\n  \"prediction\": \"Legitimate\",\n  \"confidence\": 1.0,\n  \"summary\": \"Low risk transaction with familiar features\",\n  \"risk_factors\": [],\n  \"recommendation\": \"Approve transaction\"\n}"
+    },
+    {
+        "sample": 33858,
+        "temperature_0": "{\n  \"prediction\": \"Review Manually\",\n  \"confidence\": 0.5,\n  \"summary\": \"Transaction requires manual review due to uncertain fraud probability\",\n  \"risk_factors\": [\"High TransactionAmt\", \"Unusual card and address combination\"],\n  \"recommendation\": \"Verify transaction details with the customer\"\n}",
+        "temperature_07": "{\n  \"prediction\": \"Review Manually\",\n  \"confidence\": 0.5,\n  \"summary\": \"Transaction requires manual review due to moderate fraud probability\",\n  \"risk_factors\": [\"High transaction amount\", \"Unknown customer behavior\"],\n  \"recommendation\": \"Verify customer identity and transaction details\"\n}"
+    },
+    {
+        "sample": 19302,
+        "temperature_0": "{\n  \"prediction\": \"Fraud\",\n  \"confidence\": 1.0,\n  \"summary\": \"High risk transaction due to unusual features\",\n  \"risk_factors\": [\"High TransactionAmt\", \"Missing P_emaildomain\"],\n  \"recommendation\": \"Reject transaction\"\n}",
+        "temperature_07": "{\n  \"prediction\": \"Fraud\",\n  \"confidence\": 1.0,\n  \"summary\": \"High-risk transaction due to unusual characteristics\",\n  \"risk_factors\": [\"High TransactionAmt\", \"Missing P_emaildomain\", \"Unusual addr1\"],\n  \"recommendation\": \"Reject transaction\"\n}"
+    }
+]

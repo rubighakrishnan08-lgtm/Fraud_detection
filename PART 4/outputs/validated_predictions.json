@@ -1,0 +1,38 @@
+[
+    {
+        "sample": 1,
+        "result": {
+            "prediction": "Legitimate",
+            "confidence": 1.0,
+            "summary": "Low risk transaction with a recognized email domain and a common payment method",
+            "risk_factors": [],
+            "recommendation": "Approve transaction"
+        }
+    },
+    {
+        "sample": 33858,
+        "result": {
+            "prediction": "Review Manually",
+            "confidence": 0.5,
+            "summary": "Transaction requires manual review due to uncertain fraud probability",
+            "risk_factors": [
+                "High TransactionAmt",
+                "Unusual card and address combination"
+            ],
+            "recommendation": "Verify transaction details with the customer"
+        }
+    },
+    {
+        "sample": 19302,
+        "result": {
+            "prediction": "Fraud",
+            "confidence": 1.0,
+            "summary": "High risk transaction due to unusual features",
+            "risk_factors": [
+                "High TransactionAmt",
+                "Missing P_emaildomain"
+            ],
+            "recommendation": "Reject transaction"
+        }
+    }
+]

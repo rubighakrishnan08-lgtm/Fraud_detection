@@ -1,0 +1,4 @@
+Feature Input,Predicted Class,Probability,Explanation JSON,Validation Status
+Record 1,Not Fraud,0.99,"{""prediction_label"": null, ""confidence_level"": null, ""top_reason"": null, ""second_reason"": null, ""next_step"": null}",FAIL
+Record 2,Not Fraud,1.0,"{""prediction_label"": null, ""confidence_level"": null, ""top_reason"": null, ""second_reason"": null, ""next_step"": null}",FAIL
+Record 3,Not Fraud,0.94,"{""prediction_label"": null, ""confidence_level"": null, ""top_reason"": null, ""second_reason"": null, ""next_step"": null}",FAIL

@@ -1,0 +1,4 @@
+Input,LLM Output,Valid JSON,Pass / Block
+Record 1,"{""prediction_label"": null, ""confidence_level"": null, ""top_reason"": null, ""second_reason"": null, ""next_step"": null}",FAIL,PASS
+Record 2,"{""prediction_label"": null, ""confidence_level"": null, ""top_reason"": null, ""second_reason"": null, ""next_step"": null}",FAIL,PASS
+Record 3,"{""prediction_label"": null, ""confidence_level"": null, ""top_reason"": null, ""second_reason"": null, ""next_step"": null}",FAIL,PASS
