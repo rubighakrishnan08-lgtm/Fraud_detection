@@ -1,0 +1,1199 @@
+Feature,Importance
+numeric__V258,0.01873647597140142
+numeric__V255,0.015337193835936604
+numeric__C1,0.01284490808746883
+numeric__V245,0.01208544834900637
+numeric__C4,0.01204202861680237
+numeric__V45,0.011683921588873245
+numeric__V198,0.011574937168240138
+numeric__C12,0.011565984896017328
+numeric__V201,0.011409852074332547
+numeric__C13,0.010729626443086514
+numeric__V243,0.010228098528954963
+numeric__V259,0.01016829428086719
+numeric__V197,0.009326567794404817
+numeric__C11,0.009161952029229797
+numeric__C14,0.0090662056152311
+numeric__C8,0.00897877997064544
+numeric__V189,0.008911243267184952
+numeric__V257,0.008900545487771661
+numeric__V87,0.008820518126845263
+numeric__C7,0.008477832462119991
+numeric__C2,0.008372233548717243
+numeric__V294,0.008342197207056113
+numeric__V291,0.008079858217493185
+numeric__V200,0.00789643976530135
+numeric__V317,0.007841843712573387
+numeric__V195,0.007822911554208653
+numeric__V188,0.007800087571841157
+numeric__V148,0.0073205382739962325
+numeric__V256,0.006960680007605291
+numeric__V250,0.006403873937531826
+numeric__V246,0.006374836157355604
+numeric__V315,0.006041622566585361
+numeric__V274,0.005997070771371783
+numeric__V318,0.005679979431029605
+numeric__C10,0.0055664089076572455
+numeric__TransactionDT,0.005553670967037852
+numeric__V252,0.005523073695606403
+numeric__V308,0.005434085947566742
+numeric__V265,0.005431767270944822
+numeric__V23,0.005383939220770596
+numeric__card1,0.00532508326203457
+numeric__C6,0.005259064277895212
+numeric__addr1,0.005153365095841333
+categorical__M4_M2,0.005142862845793184
+numeric__V273,0.00510404544209058
+numeric__V24,0.005035094590344172
+numeric__id_01,0.005028824658846663
+numeric__id_02,0.005021751821947544
+numeric__card3,0.004947194485089651
+numeric__V125,0.0047718710396897485
+numeric__V283,0.00473104554601061
+numeric__V231,0.004705387123265621
+numeric__V44,0.004689612756157194
+numeric__V275,0.004654906359459435
+numeric__V307,0.004607094969493122
+categorical__DeviceInfo_LG-D680 Build/KOT49I,0.004561553447490023
+numeric__V196,0.004498826277780834
+categorical__card6_debit,0.004452836975855407
+numeric__id_17,0.004415366411631554
+numeric__V86,0.0043458859574301255
+numeric__D2,0.004325440047152521
+categorical__id_35_T,0.0043203777869295044
+numeric__V313,0.0042367761525723205
+numeric__V232,0.0041870660379671135
+numeric__V306,0.004173002029058359
+numeric__V186,0.004155628838357727
+numeric__V254,0.004152573177928494
+numeric__V280,0.004088567783692094
+numeric__card2,0.00407816277839916
+numeric__V213,0.004066447916841639
+numeric__D15,0.004021867715172064
+numeric__id_20,0.004009723149604144
+numeric__card5,0.00396799495941391
+numeric__V312,0.003966970546998642
+numeric__V219,0.003825381954823877
+numeric__V133,0.0038180071849242604
+numeric__V103,0.0037998310698701145
+numeric__V38,0.003757116264384116
+numeric__V128,0.003732699530436176
+numeric__V149,0.003728683571170072
+numeric__V155,0.0037038595643280755
+numeric__V229,0.003702257875470048
+numeric__id_19,0.003701015533482639
+numeric__V102,0.003700083637370607
+numeric__V156,0.0036856695519697277
+numeric__D4,0.003684655499880557
+numeric__V194,0.0036316613251863848
+numeric__V295,0.0036119187549108534
+numeric__V12,0.0035674462308851363
+numeric__V244,0.003545303830619812
+numeric__V123,0.00347510843390763
+numeric__D8,0.0034579737493678976
+numeric__V242,0.0034058537088277117
+numeric__D1,0.003378792762769607
+numeric__V212,0.0032658025588223234
+numeric__V261,0.003228766572307232
+numeric__V303,0.0032139888222694536
+numeric__V224,0.003200146633338875
+numeric__V53,0.0031837975726288826
+numeric__V253,0.003154476315578919
+numeric__D10,0.0031494670153079233
+numeric__V132,0.003128197740302107
+numeric__V129,0.003111867523258065
+numeric__V247,0.00305663328820832
+numeric__V251,0.003049177704346318
+numeric__V309,0.003036130894824008
+numeric__V293,0.0029814837857987646
+numeric__D12,0.0029705730018370364
+numeric__V264,0.0029174350831429312
+numeric__D3,0.0029104892251396327
+numeric__id_06,0.002873570098910852
+numeric__V190,0.0028400668928768667
+numeric__V282,0.0028225273164438546
+numeric__id_05,0.0028219186018701536
+numeric__id_07,0.0028200434062085333
+numeric__D9,0.002818784400264286
+numeric__V268,0.0027454462249986255
+numeric__V126,0.0027205194961099004
+numeric__V262,0.0026807989097493213
+numeric__V51,0.0026766790638879713
+numeric__V80,0.0026385266604520854
+numeric__V175,0.002613716140724365
+numeric__V187,0.0025921446854697927
+numeric__V225,0.0025735594927764316
+numeric__V134,0.002554466829703317
+numeric__V47,0.0025434788287853737
+numeric__V178,0.002542987258673018
+numeric__D14,0.0025406602946813723
+numeric__V124,0.002477935657011741
+numeric__C9,0.0024625891738340707
+numeric__V263,0.0024331232014074694
+numeric__V17,0.0024228082081304775
+numeric__V101,0.0023864097718186484
+numeric__V52,0.002366458174591548
+numeric__V207,0.0023545950004757055
+numeric__V113,0.0023533526265532858
+numeric__V54,0.0023504202323556354
+numeric__V285,0.0023451487940451066
+numeric__V314,0.0023309549867918697
+numeric__V230,0.0023024192534195323
+numeric__V127,0.0022776909409812397
+numeric__V304,0.0022152672834102553
+numeric__id_22,0.002200812977898879
+numeric__D5,0.002180200666655995
+numeric__V233,0.0021654747107093136
+numeric__V272,0.0021501983351479227
+numeric__V170,0.002150182724630422
+numeric__V203,0.0021301749852151654
+numeric__V292,0.0021148911456864033
+numeric__id_13,0.002085202910537752
+numeric__V81,0.0020722934498546776
+numeric__V216,0.0020651680694741886
+numeric__V204,0.002062873965991631
+numeric__V74,0.0020527479686353834
+numeric__V270,0.0020523707441137363
+numeric__V73,0.002031829536557553
+numeric__id_25,0.0020033008012034243
+numeric__V94,0.0019841441814458707
+numeric__V248,0.001951365894654157
+numeric__V193,0.0019419189881671594
+numeric__V40,0.0019381507979216858
+numeric__V223,0.0019248614653681296
+numeric__dist2,0.0019245203703801342
+numeric__V72,0.001902336245447403
+numeric__V171,0.0018710536599978733
+numeric__V279,0.001862352688060437
+numeric__V221,0.0018621864515811694
+numeric__V310,0.0018609188664633946
+numeric__V112,0.0018608332175995693
+numeric__V281,0.0018595435048009896
+numeric__V76,0.0018550116644422982
+numeric__V168,0.0018491671668819597
+numeric__V192,0.0018376162297731623
+numeric__V238,0.0018158045919988688
+numeric__V217,0.001808344176442979
+numeric__V13,0.0017706770163550991
+numeric__V210,0.0017681126494285358
+categorical__DeviceType_mobile,0.0017668428780266254
+numeric__id_04,0.0017577179812891175
+numeric__V43,0.0017362213003764102
+numeric__V78,0.0017158669139120905
+numeric__V218,0.0017141713909000482
+numeric__V97,0.0017125638745995148
+categorical__M5_T,0.0016994603091661565
+numeric__V289,0.001690455806335919
+numeric__V154,0.0016758364149563215
+numeric__V95,0.0016726976384671551
+numeric__V296,0.00166110274919445
+numeric__V302,0.0016472282777045164
+numeric__V202,0.0016341785193793013
+numeric__V215,0.001627689186420199
+numeric__id_21,0.0016076746005189626
+numeric__V59,0.0016069691091403155
+numeric__V211,0.0015800358886954755
+numeric__V37,0.00157705000278276
+numeric__V130,0.0015768611162953242
+numeric__V20,0.0015676573497625918
+numeric__V316,0.0015574885299927447
+numeric__V77,0.0015404644269503137
+numeric__V131,0.0015390406032600864
+numeric__V222,0.001534445373151961
+numeric__V26,0.001517498034637178
+numeric__V75,0.0015096549239471916
+numeric__V15,0.0014900709885982662
+categorical__card4_mastercard,0.0014773745762212906
+numeric__V277,0.001464515496428067
+categorical__P_emaildomain_gmail.com,0.0014639146775195539
+numeric__V298,0.0014510427355708922
+numeric__V66,0.0014455418034249401
+numeric__V111,0.0014379369272484684
+numeric__V284,0.001436217181512141
+numeric__V32,0.0014260839317612726
+numeric__V67,0.0014243214754619347
+numeric__V167,0.0014115382229281147
+numeric__V96,0.0013935370897553362
+numeric__V228,0.0013890029359053546
+numeric__V58,0.001371659373302484
+numeric__V60,0.0013459903561103337
+numeric__V287,0.0013452877146401811
+numeric__V266,0.001334254866779973
+numeric__V79,0.0013299052991937663
+numeric__V278,0.0013278146402826265
+numeric__D6,0.001320870741448028
+numeric__V63,0.0013077602684125412
+numeric__id_09,0.0012933012624879497
+numeric__V146,0.001292965973800303
+categorical__card4_visa,0.0012804757119867568
+numeric__V191,0.0012793651607680401
+numeric__V164,0.001274142411046572
+numeric__V16,0.0012606206911249017
+numeric__V157,0.0012531784845340515
+categorical__P_emaildomain_outlook.com,0.0012404850896632702
+numeric__V106,0.0012200738437439468
+numeric__V271,0.0012195012721100647
+numeric__V320,0.0012149784282307393
+categorical__id_31_mobile safari 11.0,0.00121276734781205
+numeric__V61,0.001200907697559022
+numeric__V158,0.0011964057580777616
+numeric__V249,0.0011947908162267843
+numeric__V25,0.0011916041992407226
+numeric__C5,0.0011668925304533608
+numeric__id_14,0.0011378684534898873
+categorical__P_emaildomain_hotmail.com,0.001129555791990156
+numeric__V185,0.0011194034038133956
+numeric__V50,0.0011175164250188322
+numeric__V108,0.001117222128918789
+numeric__dist1,0.0010842196910832457
+numeric__V19,0.0010828347408222598
+numeric__V71,0.001074590378401659
+numeric__id_08,0.001059102605798421
+numeric__V209,0.0010582534757413763
+numeric__V83,0.0010559400329951658
+numeric__V299,0.0010549563729019785
+numeric__V39,0.0010423265369176675
+numeric__V276,0.0010415265608220909
+numeric__V165,0.0010378114896282555
+numeric__V159,0.001028818709884389
+numeric__V36,0.0010268689855681037
+numeric__V199,0.0010010018090163791
+numeric__V288,0.0010004868795244323
+numeric__V153,0.0009968907577513405
+numeric__V57,0.0009889609108281355
+numeric__V184,0.0009774144858239592
+numeric__V109,0.000973677049868846
+numeric__V208,0.000963909270342667
+numeric__id_26,0.0009557250216752312
+numeric__V239,0.0009327546162208
+numeric__V177,0.0009279205962993978
+numeric__id_18,0.0009157626866777236
+numeric__V338,0.0009155393295069355
+categorical__DeviceInfo_Moto G (5) Plus Build/NPNS25.137-15-11,0.0009148800914402871
+categorical__P_emaildomain_frontiernet.net,0.0009123515328821541
+numeric__V31,0.0009094126586177
+numeric__V21,0.0009093614191203979
+numeric__V33,0.0009048470802708949
+numeric__id_24,0.0008995139386881198
+numeric__V145,0.0008921104723957139
+numeric__V64,0.0008834143819887319
+numeric__V333,0.0008799115682448376
+categorical__R_emaildomain_gmail.com,0.0008586306028327843
+numeric__V18,0.0008575256427205325
+numeric__V182,0.0008534641740049063
+numeric__V151,0.0008483813719902201
+numeric__V99,0.0008443684888258757
+categorical__id_29_NotFound,0.0008419012854004067
+categorical__id_15_Unknown,0.0008393982862739465
+numeric__V70,0.0008348410419931747
+categorical__id_16_NotFound,0.000834837895000236
+numeric__V214,0.000833604749948463
+numeric__V92,0.0008261660919278091
+categorical__id_31_chrome 63.0,0.0008256888395369435
+numeric__V169,0.0008083997800365586
+numeric__V42,0.000791585917153439
+numeric__V82,0.0007886862592527417
+numeric__V205,0.0007744488452098871
+numeric__V85,0.0007724860442595893
+numeric__V172,0.0007699016663528845
+categorical__DeviceInfo_Y635-L03 Build/HuaweiY635-L03,0.0007690038042437339
+numeric__V227,0.0007655431846583993
+numeric__V143,0.000763479303657813
+numeric__V136,0.0007553558973876258
+numeric__D13,0.0007552339910417333
+numeric__id_10,0.000750658006573206
+numeric__D7,0.0007422036421024193
+numeric__V179,0.0007416168038853106
+numeric__V174,0.0007413443949727543
+numeric__V100,0.0007385269372813674
+numeric__V105,0.0007377049734735099
+numeric__V166,0.0007331736510309916
+numeric__V329,0.0007228214918209335
+numeric__V135,0.0007225969202082995
+numeric__id_03,0.0007176067969952322
+categorical__R_emaildomain_outlook.com,0.0007151092917885625
+numeric__V236,0.0007122213342392525
+numeric__V237,0.0007107712175970557
+numeric__V150,0.0007054443555189817
+numeric__V144,0.0007044220694119832
+numeric__V206,0.000702150445920215
+numeric__V332,0.0006978229107975315
+numeric__V176,0.0006917718452093501
+numeric__V69,0.0006883896251119203
+numeric__V62,0.0006784165664828475
+numeric__V34,0.0006691526509420556
+numeric__V234,0.0006468575686641137
+numeric__V93,0.0006465820554851639
+numeric__V140,0.0006454042477553043
+numeric__V152,0.0006395417860744911
+numeric__V147,0.0006148086427730042
+numeric__V183,0.0006042663603899723
+numeric__V22,0.0006032338737034356
+categorical__id_31_chrome 56.0 for android,0.0006026434250431377
+numeric__V90,0.0005981937029985745
+numeric__D11,0.0005980616060182762
+numeric__V115,0.0005933436927052886
+numeric__V220,0.0005778857642552103
+numeric__V301,0.0005778639468963656
+numeric__V181,0.0005593985505055097
+numeric__V160,0.0005584268895102862
+numeric__V46,0.0005582381988192914
+numeric__V7,0.0005582062666977253
+numeric__V29,0.0005562695046337829
+categorical__DeviceInfo_KFFOWI Build/LVY48F,0.0005548223154802142
+categorical__ProductCD_S,0.0005536000932632202
+numeric__V321,0.000553292293639599
+categorical__P_emaildomain_anonymous.com,0.0005530762531161581
+categorical__id_33_801x480,0.0005384378098530425
+numeric__V260,0.0005335662794466491
+numeric__V114,0.0005326474337384904
+numeric__V319,0.000531168365089258
+categorical__id_23_IP_PROXY:TRANSPARENT,0.0005302162935929202
+numeric__V137,0.0005292192347307765
+categorical__id_37_T,0.0005273791424398845
+numeric__V35,0.0005271637612926926
+numeric__V235,0.0005258742609338474
+numeric__V30,0.0005238783146342853
+categorical__id_33_2208x1242,0.0005215171079336701
+categorical__id_12_NotFound,0.0005156432947575708
+numeric__addr2,0.0005132037497702828
+numeric__V290,0.0005068951964380434
+categorical__DeviceInfo_QTASUN1 Build/NRD90M,0.0005012771165966123
+numeric__V267,0.0004958563543636078
+numeric__V55,0.0004898181799991978
+numeric__V322,0.00048227028868834274
+numeric__V122,0.00047382119108021483
+numeric__V324,0.00046857388061226883
+categorical__id_34_match_status:1,0.00046316360322111054
+categorical__id_31_chrome 62.0 for android,0.00046122061437096093
+numeric__V173,0.000451815129745371
+categorical__R_emaildomain_aol.com,0.00045090955561206025
+numeric__V331,0.0004337101744040036
+categorical__id_34_match_status:2,0.00042348727441871443
+numeric__V180,0.0004171734142789061
+categorical__R_emaildomain_icloud.com,0.000414176994536193
+categorical__R_emaildomain_hotmail.com,0.00040751442258504247
+numeric__V48,0.00040629297012802906
+numeric__V56,0.0004053196310135045
+categorical__id_38_T,0.00040011217780214046
+numeric__V98,0.00039898717941887077
+numeric__V269,0.00039690726913488045
+categorical__DeviceInfo_Windows,0.00039320927118060255
+numeric__V226,0.00039280335323112865
+categorical__DeviceInfo_XT1635-02 Build/NPN26.118-22-2,0.00038244936046674964
+categorical__DeviceInfo_ZEIA8,0.0003739746971194766
+categorical__id_31_chrome 62.0,0.00037152776073240347
+numeric__V10,0.00037076441363903626
+categorical__DeviceInfo_Blade V6 Plus Build/MRA58K,0.00036555444525529626
+numeric__V120,0.00036186352927366475
+numeric__V104,0.0003601276379294402
+categorical__DeviceInfo_SM-A300H Build/LRX22G,0.00035427882242769265
+numeric__V139,0.0003442564494085418
+numeric__V141,0.00034243951484364167
+numeric__V300,0.00034082105944919963
+categorical__DeviceInfo_SM-G925T Build/NRD90M,0.00034053069404549655
+categorical__ProductCD_W,0.00034006144447033956
+categorical__id_31_firefox 57.0,0.0003377686172275218
+numeric__V337,0.0003321126328696622
+categorical__ProductCD_R,0.0003282658642572195
+numeric__V138,0.00032708374982128854
+categorical__P_emaildomain_aol.com,0.00032681589212530066
+categorical__id_28_New,0.0003202879759341738
+categorical__DeviceInfo_iOS Device,0.00031768506359926735
+categorical__DeviceInfo_5011A Build/NRD90M,0.0003170980398394146
+numeric__V297,0.00031471481706323175
+categorical__id_31_chrome 61.0 for android,0.0003096334594359441
+categorical__DeviceInfo_F5121 Build/34.3.A.0.228,0.000304770298880285
+categorical__id_30_Windows 10,0.00029974140417873385
+categorical__DeviceInfo_XT1635-01 Build/NDNS26.118-23-12-3,0.0002925155712876331
+categorical__M6_T,0.0002921670478892233
+numeric__id_32,0.000287323903462316
+categorical__DeviceInfo_HUAWEI Y520-U03 Build/HUAWEIY520-U03,0.0002799613984669746
+categorical__DeviceInfo_SM-G955F Build/NRD90M,0.00027740665889599436
+categorical__DeviceInfo_Z983 Build/NMF26F,0.0002680314395542802
+numeric__V163,0.00026634306408132287
+numeric__V84,0.00026567906937575883
+categorical__P_emaildomain_yahoo.com,0.0002573263452705309
+categorical__DeviceInfo_Windows NT 6.2,0.0002509494782256831
+categorical__DeviceInfo_Redmi Note 4 Build/MMB29M,0.0002501368954955272
+categorical__id_33_1920x1200,0.0002498171694133366
+categorical__id_31_firefox 48.0,0.00024896990489410234
+categorical__id_31_mobile safari 10.0,0.00024773253208693475
+numeric__V118,0.00023967037211714625
+categorical__DeviceInfo_LGMP260 Build/NRD90U,0.00023743227828682646
+categorical__id_33_3840x2160,0.0002351980645109366
+categorical__id_30_iOS 10.3.2,0.00023287269538946751
+categorical__id_30_Windows 7,0.0002303116898084075
+categorical__DeviceInfo_TA-1039 Build/N2G47H,0.00022673825953116314
+numeric__V286,0.00022162680099063205
+categorical__id_31_chrome generic,0.0002211889178479457
+numeric__V323,0.0002156923477399734
+categorical__id_30_iOS 10.3.1,0.00020874037982649495
+categorical__id_31_chrome 60.0 for android,0.0002030662516255441
+numeric__V311,0.00020184702583143788
+categorical__DeviceInfo_rv:57.0,0.0002017892803656799
+numeric__V121,0.00019789897024295483
+numeric__V117,0.0001935200340134805
+categorical__card4_discover,0.0001933142767631647
+categorical__DeviceInfo_SM-A710M,0.00019007065168932393
+categorical__id_15_New,0.00018841164868766883
+categorical__id_33_1920x1080,0.00018578203254149888
+categorical__P_emaildomain_icloud.com,0.00018407499008854896
+categorical__id_31_firefox,0.00018275414358844867
+categorical__DeviceInfo_SM-G935F Build/NRD90M,0.00018067810299162793
+categorical__DeviceInfo_SM-A720F Build/MMB29K,0.0001767121690363413
+categorical__id_33_1280x720,0.00017519557567243063
+categorical__id_36_T,0.00017208713276648825
+categorical__M3_T,0.00016986093768278244
+categorical__id_31_chrome 61.0,0.0001661505627957162
+numeric__V330,0.0001646663092781301
+numeric__V326,0.00016227710624473808
+numeric__V339,0.000160194392859217
+numeric__V91,0.0001578795919936767
+numeric__V110,0.00015591308619886433
+categorical__DeviceInfo_LG-K371,0.0001554519871186697
+numeric__V142,0.0001548555344876113
+numeric__V4,0.0001457770918451247
+categorical__DeviceInfo_Moto Z2 Play Build/NPS26.74-16-1,0.0001451669746239725
+numeric__V116,0.0001425295232567296
+categorical__M2_T,0.0001403071987615077
+numeric__V3,0.0001376430582717213
+categorical__M9_T,0.00013147041957097818
+categorical__P_emaildomain_msn.com,0.0001242675256006124
+categorical__DeviceInfo_NX785QC8G,0.00012417727971474824
+categorical__id_33_2048x1536,0.0001234319599580747
+numeric__V162,0.00012294353208244435
+categorical__id_31_safari generic,0.00011940298531113823
+numeric__V161,0.00011769845174757116
+categorical__id_33_2560x1440,0.00011673225512549138
+categorical__id_31_opera 49.0,0.00011436578805165335
+categorical__DeviceInfo_Z410,0.0001126009135757617
+categorical__DeviceInfo_BLL-L23 Build/HUAWEIBLL-L23,0.00011246180573978227
+numeric__id_11,0.00011233561913528806
+numeric__V9,0.00011210005895756107
+numeric__V119,0.00010949602327961418
+categorical__id_33_2880x1800,0.00010786832322610954
+categorical__R_emaildomain_yahoo.com,0.0001055941653154266
+categorical__DeviceInfo_rv:48.0,0.00010254252340234171
+categorical__id_31_chrome 56.0,9.47043033936728e-05
+categorical__ProductCD_H,9.23246355236889e-05
+categorical__P_emaildomain_me.com,9.035940743691382e-05
+categorical__id_31_edge 16.0,8.858564490270202e-05
+numeric__V11,8.655750283080089e-05
+numeric__V5,8.575623352468406e-05
+categorical__id_31_chrome 58.0 for android,8.473576299515886e-05
+numeric__V49,8.39641277403708e-05
+categorical__id_33_2436x1125,8.396142308332296e-05
+categorical__id_31_edge 15.0,8.258351236809824e-05
+categorical__id_30_Linux,7.514809022919658e-05
+categorical__id_30_Android 7.0,7.382404341263154e-05
+categorical__M8_T,7.300849395333563e-05
+categorical__DeviceInfo_HUAWEI,7.280170404733978e-05
+numeric__V327,6.956211067926085e-05
+categorical__id_31_ie 11.0 for desktop,6.937325823293058e-05
+categorical__P_emaildomain_live.com.mx,6.915537778238321e-05
+categorical__id_33_1280x800,6.895731289143833e-05
+categorical__id_31_chrome 49.0,6.799213418018577e-05
+categorical__id_31_chrome 59.0 for android,6.799104741245025e-05
+categorical__id_30_Mac OS X 10_12_6,6.457923678648359e-05
+categorical__DeviceInfo_BLADE V8 SE Build/NRD90M,6.336076652306045e-05
+categorical__id_30_Android 6.0.1,6.17000857224461e-05
+numeric__V335,6.024645115001115e-05
+categorical__id_33_1680x1050,5.761170787669978e-05
+categorical__DeviceInfo_SM-G570M Build/MMB29K,5.643512769330753e-05
+categorical__R_emaildomain_live.com.mx,5.351887511569913e-05
+categorical__id_31_mobile safari uiwebview,5.328608041513804e-05
+categorical__DeviceInfo_SM-G532M Build/MMB29T,5.305141034985689e-05
+categorical__DeviceInfo_SM-G531H Build/LMY48B,5.096524546227548e-05
+categorical__id_31_mobile safari 9.0,4.986328222344396e-05
+categorical__id_33_1440x900,4.815439810103813e-05
+categorical__id_30_iOS 10.2.0,4.540345077080012e-05
+categorical__id_31_chrome 60.0,4.241462584325345e-05
+categorical__id_30_Mac OS X 10_10_5,4.069819869843249e-05
+categorical__id_30_iOS 11.0.1,4.0662015590776626e-05
+numeric__V336,3.9348882019023536e-05
+categorical__DeviceInfo_SM-G950F Build/NRD90M,3.81501568578297e-05
+categorical__id_30_Android 5.1.1,3.7525853134260906e-05
+categorical__id_31_chrome 51.0 for android,3.44928143833098e-05
+categorical__id_30_iOS 11.1.2,3.428019402450787e-05
+categorical__P_emaildomain_yahoo.com.mx,3.3865933495104406e-05
+categorical__P_emaildomain_hotmail.fr,3.231151817826193e-05
+numeric__V8,3.127476658494775e-05
+categorical__DeviceInfo_SM-G610M Build/MMB29K,3.114269319849575e-05
+categorical__DeviceInfo_SM-J700M Build/MMB29K,3.105468711676128e-05
+categorical__DeviceInfo_VS995 Build/NRD90M,3.104688329250437e-05
+categorical__id_30_Windows 8.1,3.057625759436753e-05
+categorical__id_30_iOS 11.1.0,3.0284075016696756e-05
+categorical__DeviceInfo_SM-J727U Build/NRD90M,2.9714197885756718e-05
+categorical__R_emaildomain_hotmail.fr,2.828071449896088e-05
+categorical__id_33_1136x640,2.81713208782097e-05
+categorical__id_31_chrome 54.0 for android,2.788091017515604e-05
+categorical__R_emaildomain_mail.com,2.7192083667528004e-05
+categorical__id_33_1334x750,2.4585583969635316e-05
+categorical__P_emaildomain_gmail,2.3064843154822753e-05
+categorical__DeviceInfo_ALE-L23 Build/HuaweiALE-L23,2.2222237543527442e-05
+categorical__DeviceInfo_MacOS,2.135786192815081e-05
+numeric__V334,1.8262549872106018e-05
+categorical__id_31_android webview 4.0,1.7682261204965925e-05
+categorical__DeviceInfo_LGLS676 Build/MXB48T,1.7222932763514355e-05
+categorical__DeviceInfo_Trident/7.0,1.533758841363853e-05
+categorical__M7_T,1.4627028316170522e-05
+categorical__P_emaildomain_att.net,1.2901533300621265e-05
+numeric__V6,1.273277576674211e-05
+numeric__V14,1.017962379987241e-05
+categorical__P_emaildomain_comcast.net,5.816508620494331e-06
+categorical__R_emaildomain_yahoo.com.mx,5.804637150691154e-06
+categorical__M4_M1,2.4757710636057817e-06
+categorical__DeviceInfo_R8106,0.0
+categorical__DeviceInfo_QTAQZ3 Build/LMY47V,0.0
+categorical__DeviceInfo_XT1650,0.0
+categorical__DeviceInfo_LGLS991,0.0
+categorical__DeviceInfo_Redmi 4X Build/N2G47H,0.0
+categorical__DeviceInfo_RCT6303W87M7 Build/MRA58K,0.0
+categorical__DeviceInfo_LG-K220 Build/MXB48T,0.0
+categorical__DeviceInfo_Redmi 4A Build/MMB29M,0.0
+categorical__DeviceInfo_LG-H810/H81021z,0.0
+categorical__DeviceInfo_SAMSUNG,0.0
+categorical__DeviceInfo_SAMSUNG SM-A300H Build/LRX22G,0.0
+categorical__DeviceInfo_QTAIR7 Build/LMY47D,0.0
+categorical__DeviceInfo_Pixel,0.0
+categorical__DeviceInfo_Pixel XL Build/OPM1.171019.011,0.0
+categorical__DeviceInfo_XT1650 Build/NCLS26.118-23-13-3,0.0
+categorical__DeviceInfo_LG-K410 Build/LRX22G,0.0
+categorical__DeviceInfo_Pixel Build/OPR3.170623.013,0.0
+categorical__DeviceInfo_Pixel Build/OPM1.171019.011,0.0
+categorical__DeviceInfo_LG-K428 Build/MMB29M,0.0
+categorical__DeviceInfo_Z837VL,0.0
+categorical__DeviceInfo_LG-K500 Build/MMB29M,0.0
+categorical__DeviceInfo_LG-K530 Build/MMB29M,0.0
+categorical__DeviceInfo_LG-K540 Build/MMB29M,0.0
+categorical__DeviceInfo_LG-K580 Build/MRA58K,0.0
+categorical__DeviceInfo_rv:56.0,0.0
+categorical__DeviceInfo_Z970,0.0
+categorical__DeviceInfo_Z971,0.0
+categorical__DeviceInfo_Z981 Build/MMB29M,0.0
+categorical__DeviceInfo_SAMSUNG SM-A520F Build/NRD90M,0.0
+categorical__DeviceInfo_LG-K200 Build/MXB48T,0.0
+categorical__DeviceInfo_SAMSUNG SM-G530H Build/LRX22G,0.0
+categorical__DeviceInfo_SAMSUNG SM-G935A Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G935F Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G935T Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G950F Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G950U Build/NRD90M,0.0
+categorical__DeviceInfo_XT1580,0.0
+categorical__DeviceInfo_LG-H872 Build/NRD90U,0.0
+categorical__DeviceInfo_SAMSUNG SM-G950U1 Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G955U Build/NRD90M,0.0
+categorical__DeviceInfo_LG-H871,0.0
+categorical__DeviceInfo_LG-H870 Build/NRD90U,0.0
+categorical__DeviceInfo_SAMSUNG SM-J320F Build/LMY47V,0.0
+categorical__DeviceInfo_SAMSUNG SM-J327T Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-J700M Build/MMB29K,0.0
+categorical__DeviceInfo_SAMSUNG SM-J701M Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-J727T1 Build/NRD90M,0.0
+categorical__DeviceInfo_XT1585 Build/NCK25.118-10.5,0.0
+categorical__DeviceInfo_SAMSUNG SM-G930T Build/NRD90M,0.0
+categorical__DeviceInfo_XT1635-01,0.0
+categorical__DeviceInfo_SAMSUNG SM-G930P Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G531H Build/LMY48B,0.0
+categorical__DeviceInfo_SAMSUNG SM-G532M Build/MMB29T,0.0
+categorical__DeviceInfo_SAMSUNG SM-G550T1 Build/MMB29K,0.0
+categorical__DeviceInfo_SAMSUNG SM-G610M Build/MMB29K,0.0
+categorical__DeviceInfo_SAMSUNG SM-G890A Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G891A Build/NRD90M,0.0
+categorical__DeviceInfo_LG-H990 Build/NRD90M,0.0
+categorical__DeviceInfo_LG-H910 Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G892A Build/NRD90M,0.0
+categorical__DeviceInfo_LG-H901,0.0
+categorical__DeviceInfo_SAMSUNG SM-G900A Build/MMB29M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G920A Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G925T Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G930A Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-G930F Build/NRD90M,0.0
+categorical__DeviceInfo_LG-LS777 Build/NRD90U,0.0
+categorical__DeviceInfo_LG-M153 Build/MXB48T,0.0
+categorical__DeviceInfo_PRA-LX3 Build/HUAWEIPRA-LX3,0.0
+categorical__DeviceInfo_M4 SS4450 Build/MRA58K,0.0
+categorical__DeviceInfo_M4 SS4453 Build/MMB29M,0.0
+categorical__DeviceInfo_M4 SS4456 Build/LMY47V,0.0
+categorical__DeviceInfo_M4 SS4457 Build/MRA58K,0.0
+categorical__DeviceInfo_MDDRJS,0.0
+categorical__DeviceInfo_MOT-A6020l37 Build/LMY47V,0.0
+categorical__DeviceInfo_LG-X230 Build/MRA58K,0.0
+categorical__DeviceInfo_moto,0.0
+categorical__DeviceInfo_Moto,0.0
+categorical__DeviceInfo_Moto C Build/NRD90M.063,0.0
+categorical__DeviceInfo_LG-X180g Build/LMY47I,0.0
+categorical__DeviceInfo_Moto C Plus Build/NRD90M.05.022,0.0
+categorical__DeviceInfo_Moto E (4) Build/NMA26.42-19,0.0
+categorical__DeviceInfo_Moto E (4) Build/NMA26.42-69,0.0
+categorical__DeviceInfo_Moto E (4) Plus Build/NMA26.42-69,0.0
+categorical__DeviceInfo_Moto G (4) Build/NPJ25.93-14.5,0.0
+categorical__DeviceInfo_M4 SS4451 Build/LMY47D,0.0
+categorical__DeviceInfo_LG-X240 Build/MRA58K,0.0
+categorical__DeviceInfo_Moto G (4) Build/NPJ25.93-14.7,0.0
+categorical__DeviceInfo_Linux x86_64,0.0
+categorical__DeviceInfo_LGLS775 Build/NRD90U,0.0
+categorical__DeviceInfo_LGMP450 Build/NRD90U,0.0
+categorical__DeviceInfo_LGMS210 Build/NRD90U,0.0
+categorical__DeviceInfo_LGLS751,0.0
+categorical__DeviceInfo_LGMS330 Build/LMY47V,0.0
+categorical__DeviceInfo_LGMS550 Build/NRD90U,0.0
+categorical__DeviceInfo_LT22i Build/6.2.A.1.100,0.0
+categorical__DeviceInfo_Lenovo,0.0
+categorical__DeviceInfo_Lenovo A2016b30 Build/MRA58K,0.0
+categorical__DeviceInfo_Lenovo K33b36 Build/MMB29M,0.0
+categorical__DeviceInfo_Lenovo K33b36 Build/NRD90N,0.0
+categorical__DeviceInfo_LGL33L/V100,0.0
+categorical__DeviceInfo_Lenovo PB1-750M Build/S100,0.0
+categorical__DeviceInfo_Lenovo-A6020l36 Build/LMY47V,0.0
+categorical__DeviceInfo_Linux i686,0.0
+categorical__DeviceInfo_LG-V495/V49520l,0.0
+categorical__DeviceInfo_Moto G (4) Build/NPJS25.93-14-10,0.0
+categorical__DeviceInfo_P4526A Build/NRD90M,0.0
+categorical__DeviceInfo_LG-M320 Build/NRD90U,0.0
+categorical__DeviceInfo_MotoE2(4G-LTE,0.0
+categorical__DeviceInfo_LG-M250 Build/NRD90U,0.0
+categorical__DeviceInfo_MotoG3 Build/MPIS24.107-55-2-17,0.0
+categorical__DeviceInfo_LG-M210 Build/NRD90U,0.0
+categorical__DeviceInfo_MotoG3 Build/MPIS24.65-25.1-19,0.0
+categorical__DeviceInfo_MotoG3 Build/MPIS24.65-33.1-2-16,0.0
+categorical__DeviceInfo_MotoG3-TE,0.0
+categorical__DeviceInfo_es-us,0.0
+categorical__DeviceInfo_NetHelper70,0.0
+categorical__DeviceInfo_Nexus,0.0
+categorical__DeviceInfo_Nexus 6P Build/OPR5.170623.011,0.0
+categorical__DeviceInfo_ONE A2005 Build/MMB29M,0.0
+categorical__DeviceInfo_ONE TOUCH 4033A Build/JDQ39,0.0
+categorical__DeviceInfo_ONEPLUS A5000 Build/NMF26X,0.0
+categorical__DeviceInfo_LG-LS993 Build/NRD90U,0.0
+categorical__DeviceInfo_MotoE2 Build/LPCS23.13-56-5,0.0
+categorical__DeviceInfo_Moto Z2 Play Build/NPSS26.118-19-6,0.0
+categorical__DeviceInfo_Moto G (5) Build/NPP25.137-72,0.0
+categorical__DeviceInfo_rv:42.0,0.0
+categorical__DeviceInfo_Moto G (5) Build/NPP25.137-82,0.0
+categorical__DeviceInfo_Moto G (5) Plus Build/NPN25.137-72,0.0
+categorical__DeviceInfo_Moto G (5) Plus Build/NPN25.137-83,0.0
+categorical__DeviceInfo_rv:11.0,0.0
+categorical__DeviceInfo_rv:55.0,0.0
+categorical__DeviceInfo_Moto G (5S,0.0
+categorical__DeviceInfo_Moto G Play Build/MPIS24.241-15.3-26,0.0
+categorical__DeviceInfo_Moto G Play Build/MPIS24.241-15.3-7,0.0
+categorical__DeviceInfo_Moto X Play Build/NPD26.48-24-1,0.0
+categorical__DeviceInfo_Moto Z (2,0.0
+categorical__DeviceInfo_LG-TP260 Build/NRD90U,0.0
+categorical__DeviceInfo_LG-P714,0.0
+categorical__DeviceInfo_rv:41.0,0.0
+categorical__DeviceInfo_LG-M322,0.0
+categorical__DeviceInfo_Moto Z2 Play Build/NPS26.118-19,0.0
+categorical__DeviceInfo_SAMSUNG SM-J730GM Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG-SM-N920A Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-N910A Build/MMB29M,0.0
+categorical__DeviceInfo_TRT-L53 Build/HUAWEITRT-L53,0.0
+categorical__DeviceInfo_SM-J105B Build/LMY47V,0.0
+categorical__DeviceInfo_SM-J111M Build/LMY47V,0.0
+categorical__DeviceInfo_SM-J120H Build/LMY47V,0.0
+categorical__DeviceInfo_SM-J200M Build/LMY47X,0.0
+categorical__DeviceInfo_SM-J320M Build/LMY47V,0.0
+categorical__DeviceInfo_SM-J320P Build/LMY47X,0.0
+categorical__DeviceInfo_SM-J320V Build/NMF26X,0.0
+categorical__DeviceInfo_SM-J327V Build/NRD90M,0.0
+categorical__DeviceInfo_SM-J500FN,0.0
+categorical__DeviceInfo_SM-J500M Build/LMY48B,0.0
+categorical__DeviceInfo_SM-J510FN,0.0
+categorical__DeviceInfo_SM-J510MN Build/MMB29M,0.0
+categorical__DeviceInfo_SM-J700M Build/LMY48B,0.0
+categorical__DeviceInfo_SM-J701M Build/NRD90M,0.0
+categorical__DeviceInfo_rv:49.0,0.0
+categorical__DeviceInfo_TA-1039 Build/NMF26F,0.0
+categorical__DeviceInfo_SM-J710MN Build/MMB29K,0.0
+categorical__DeviceInfo_SM-G955U Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G950U1 Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-N920V Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G950U Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G925W8,0.0
+categorical__DeviceInfo_SM-G928G Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G928V Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G930F Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G930P Build/NRD90M,0.0
+categorical__DeviceInfo_VK810,0.0
+categorical__DeviceInfo_SM-G930R4 Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G930T Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G930U Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G930V Build/MMB29M,0.0
+categorical__DeviceInfo_SM-G930V Build/NRD90M,0.0
+categorical__DeviceInfo_Touch,0.0
+categorical__DeviceInfo_SM-G935P Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G935T Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G935V,0.0
+categorical__DeviceInfo_SM-G935V Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G935W8,0.0
+categorical__DeviceInfo_TA-1003,0.0
+categorical__DeviceInfo_SM-T827V Build/NRD90M,0.0
+categorical__DeviceInfo_rv:47.0,0.0
+categorical__DeviceInfo_SM-T820 Build/NRD90M,0.0
+categorical__DeviceInfo_SM-S320VL,0.0
+categorical__DeviceInfo_SM-S903VL,0.0
+categorical__DeviceInfo_SM-S920L,0.0
+categorical__DeviceInfo_SM-T113NU Build/KTU84P,0.0
+categorical__DeviceInfo_SM-T230 Build/KOT49H,0.0
+categorical__DeviceInfo_SM-T230NU Build/KOT49H,0.0
+categorical__DeviceInfo_SM-T280 Build/LMY47V,0.0
+categorical__DeviceInfo_SM-T560 Build/KTU84P,0.0
+categorical__DeviceInfo_SM-T330NU Build/LMY47X,0.0
+categorical__DeviceInfo_SM-T350 Build/MMB29M,0.0
+categorical__DeviceInfo_SM-T350 Build/NMF26X,0.0
+categorical__DeviceInfo_SM-T377P Build/NMF26X,0.0
+categorical__DeviceInfo_SM-T377V Build/NMF26X,0.0
+categorical__DeviceInfo_SM-T377W,0.0
+categorical__DeviceInfo_SM-T520,0.0
+categorical__DeviceInfo_SM-T530NU Build/LRX22G,0.0
+categorical__DeviceInfo_SM-T550,0.0
+categorical__DeviceInfo_SM-P600 Build/LMY47X,0.0
+categorical__DeviceInfo_SM-P580 Build/NRD90M,0.0
+categorical__DeviceInfo_SM-P550 Build/MMB29M,0.0
+categorical__DeviceInfo_SM-J730G Build/NRD90M,0.0
+categorical__DeviceInfo_SM-T818V,0.0
+categorical__DeviceInfo_SM-T817V Build/NRD90M,0.0
+categorical__DeviceInfo_SM-T810 Build/NRD90M,0.0
+categorical__DeviceInfo_SM-T713 Build/NRD90M,0.0
+categorical__DeviceInfo_rv:45.0,0.0
+categorical__DeviceInfo_SM-T710 Build/NRD90M,0.0
+categorical__DeviceInfo_SM-T580 Build/NRD90M,0.0
+categorical__DeviceInfo_SM-N910T Build/MMB29M,0.0
+categorical__DeviceInfo_SM-P350 Build/MMB29M,0.0
+categorical__DeviceInfo_SM-N910V Build/MMB29M,0.0
+categorical__DeviceInfo_SM-N920G Build/NRD90M,0.0
+categorical__DeviceInfo_SM-T560NU Build/NMF26X,0.0
+categorical__DeviceInfo_SM-N920P Build/NRD90M,0.0
+categorical__DeviceInfo_SM-N920T Build/NRD90M,0.0
+categorical__DeviceInfo_SM-N920V Build/NRD90M,0.0
+categorical__DeviceInfo_SM-N950U Build/NMF26X,0.0
+categorical__DeviceInfo_SM-G925V Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G925P Build/NRD90M,0.0
+categorical__DeviceInfo_VS500,0.0
+categorical__DeviceInfo_SM-A710M Build/LMY47X,0.0
+categorical__DeviceInfo_XT1563 Build/MPDS24.107-52-5,0.0
+categorical__DeviceInfo_XT1254 Build/MCG24.251-5-5,0.0
+categorical__DeviceInfo_SM-A310M,0.0
+categorical__DeviceInfo_XT1064 Build/MPB24.65-34-3,0.0
+categorical__DeviceInfo_SM-A310M Build/LMY47X,0.0
+categorical__DeviceInfo_SM-A320Y Build/NRD90M,0.0
+categorical__DeviceInfo_SM-A500M Build/KTU84P,0.0
+categorical__DeviceInfo_rv:54.0,0.0
+categorical__DeviceInfo_XT1063,0.0
+categorical__DeviceInfo_SM-A510F Build/NRD90M,0.0
+categorical__DeviceInfo_SM-A510M Build/LMY47X,0.0
+categorical__DeviceInfo_SM-A510M Build/MMB29K,0.0
+categorical__DeviceInfo_SM-A510M Build/NRD90M,0.0
+categorical__DeviceInfo_XT1058 Build/LPAS23.12-21.7-1,0.0
+categorical__DeviceInfo_SM-A520F Build/MMB29K,0.0
+categorical__DeviceInfo_SM-A520F Build/NRD90M,0.0
+categorical__DeviceInfo_XT1053 Build/LPAS23.12-21.7-1,0.0
+categorical__DeviceInfo_SLA-L03 Build/HUAWEISLA-L03,0.0
+categorical__DeviceInfo_SKY_5.0LM,0.0
+categorical__DeviceInfo_SGP521,0.0
+categorical__DeviceInfo_XT1565,0.0
+categorical__DeviceInfo_SAMSUNG SM-N950U Build/NMF26X,0.0
+categorical__DeviceInfo_SAMSUNG SM-S727VL Build/MMB29M,0.0
+categorical__DeviceInfo_SAMSUNG SM-T587P Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG SM-T810 Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG-SGH-I337 Build/KOT49H,0.0
+categorical__DeviceInfo_SAMSUNG-SM-G870A Build/MMB29M,0.0
+categorical__DeviceInfo_SAMSUNG-SM-G891A Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG-SM-G900A Build/LRX21T,0.0
+categorical__DeviceInfo_SAMSUNG-SM-T677A,0.0
+categorical__DeviceInfo_SAMSUNG-SM-G900A Build/MMB29M,0.0
+categorical__DeviceInfo_SAMSUNG-SM-G930A,0.0
+categorical__DeviceInfo_SAMSUNG-SM-G930A Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG-SM-G935A Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG-SM-J327A Build/NRD90M,0.0
+categorical__DeviceInfo_SAMSUNG-SM-J727A Build/NRD90M,0.0
+categorical__DeviceInfo_SM-T550 Build/NMF26X,0.0
+categorical__DeviceInfo_XT1032 Build/LPBS23.13-56-2,0.0
+categorical__DeviceInfo_XT1032 Build/KXB21.14-L1.40,0.0
+categorical__DeviceInfo_VS501 Build/NRD90U,0.0
+categorical__DeviceInfo_XT1003,0.0
+categorical__DeviceInfo_SM-G900F Build/MMB29M,0.0
+categorical__DeviceInfo_SM-G900H Build/MMB29K,0.0
+categorical__DeviceInfo_SM-G900M Build/LRX21T,0.0
+categorical__DeviceInfo_SM-G900P Build/LRX21T,0.0
+categorical__DeviceInfo_SM-G900P Build/MMB29M,0.0
+categorical__DeviceInfo_SM-G900T Build/MMB29M,0.0
+categorical__DeviceInfo_SM-G900V,0.0
+categorical__DeviceInfo_SM-G900V Build/MMB29M,0.0
+categorical__DeviceInfo_rv:50.0,0.0
+categorical__DeviceInfo_SM-G900W8,0.0
+categorical__DeviceInfo_SM-G920F Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G920T Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G920V Build/MMB29K,0.0
+categorical__DeviceInfo_SM-G920V Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G925I Build/LMY47X,0.0
+categorical__DeviceInfo_SM-G925I Build/MMB29K,0.0
+categorical__DeviceInfo_SM-G925I Build/NRD90M,0.0
+categorical__DeviceInfo_SM-G900F Build/LRX21T,0.0
+categorical__DeviceInfo_SM-G800F Build/KOT49H,0.0
+categorical__DeviceInfo_SM-G610F,0.0
+categorical__DeviceInfo_rv:52.0,0.0
+categorical__DeviceInfo_X10,0.0
+categorical__DeviceInfo_SM-E500M Build/KTU84P,0.0
+categorical__DeviceInfo_SM-G360T1 Build/LMY47X,0.0
+categorical__DeviceInfo_SM-G386T,0.0
+categorical__DeviceInfo_Windows NT 6.1,0.0
+categorical__DeviceInfo_SM-G530H Build/LRX22G,0.0
+categorical__DeviceInfo_SM-G530T,0.0
+categorical__DeviceInfo_rv:51.0,0.0
+categorical__DeviceInfo_VS820,0.0
+categorical__DeviceInfo_WAS-LX3 Build/HUAWEIWAS-LX3,0.0
+categorical__DeviceInfo_VerykoolS5030,0.0
+categorical__DeviceInfo_VS988 Build/NRD90U,0.0
+categorical__DeviceInfo_VS987 Build/NRD90U,0.0
+categorical__DeviceInfo_SM-G550T Build/MMB29K,0.0
+categorical__DeviceInfo_SM-G550T1 Build/MMB29K,0.0
+categorical__DeviceInfo_VS835,0.0
+categorical__DeviceInfo_LG-H840 Build/NRD90U,0.0
+categorical__id_31_Nokia/Lumia,0.0
+categorical__DeviceInfo_LG-H810,0.0
+categorical__id_30_Mac OS X 10.6,0.0
+categorical__id_30_Android 7.1.2,0.0
+categorical__id_30_Android 8.0.0,0.0
+categorical__id_30_Android 8.1.0,0.0
+categorical__id_30_Mac,0.0
+categorical__id_30_Mac OS X 10.10,0.0
+categorical__id_30_Mac OS X 10.11,0.0
+categorical__id_30_Mac OS X 10.12,0.0
+categorical__id_30_Mac OS X 10.13,0.0
+categorical__id_30_Mac OS X 10.9,0.0
+categorical__id_30_Android 6.0,0.0
+categorical__id_30_Mac OS X 10_11_3,0.0
+categorical__id_30_Mac OS X 10_11_4,0.0
+categorical__id_30_Mac OS X 10_11_5,0.0
+categorical__id_30_Mac OS X 10_11_6,0.0
+categorical__id_30_Mac OS X 10_12,0.0
+categorical__id_30_Mac OS X 10_12_1,0.0
+categorical__id_30_Mac OS X 10_12_2,0.0
+categorical__id_30_Mac OS X 10_12_3,0.0
+categorical__id_30_Android 7.1.1,0.0
+categorical__id_30_Android 5.0.2,0.0
+categorical__DeviceInfo_LG-H650 Build/MRA58K,0.0
+categorical__R_emaildomain_windstream.net,0.0
+categorical__R_emaildomain_roadrunner.com,0.0
+categorical__R_emaildomain_rocketmail.com,0.0
+categorical__R_emaildomain_sbcglobal.net,0.0
+categorical__R_emaildomain_servicios-ta.com,0.0
+categorical__R_emaildomain_suddenlink.net,0.0
+categorical__R_emaildomain_twc.com,0.0
+categorical__R_emaildomain_verizon.net,0.0
+categorical__R_emaildomain_web.de,0.0
+categorical__R_emaildomain_yahoo.co.jp,0.0
+categorical__id_30_Android 5.0,0.0
+categorical__R_emaildomain_yahoo.co.uk,0.0
+categorical__R_emaildomain_yahoo.de,0.0
+categorical__R_emaildomain_yahoo.es,0.0
+categorical__R_emaildomain_yahoo.fr,0.0
+categorical__R_emaildomain_ymail.com,0.0
+categorical__id_23_IP_PROXY:HIDDEN,0.0
+categorical__id_27_NotFound,0.0
+categorical__id_30_Android 4.4.2,0.0
+categorical__id_30_Mac OS X 10_12_4,0.0
+categorical__id_30_Mac OS X 10_12_5,0.0
+categorical__id_30_Mac OS X 10_13_1,0.0
+categorical__id_31_chrome 53.0 for android,0.0
+categorical__id_31_Samsung/SM-G532M,0.0
+categorical__id_31_aol,0.0
+categorical__id_31_chrome,0.0
+categorical__id_31_chrome 43.0 for android,0.0
+categorical__id_31_chrome 46.0 for android,0.0
+categorical__id_31_chrome 50.0 for android,0.0
+categorical__id_31_chrome 51.0,0.0
+categorical__id_31_chrome 52.0 for android,0.0
+categorical__id_31_chrome 55.0,0.0
+categorical__id_30_Mac OS X 10_13_2,0.0
+categorical__id_31_chrome 55.0 for android,0.0
+categorical__id_31_chrome 57.0,0.0
+categorical__id_31_chrome 57.0 for android,0.0
+categorical__id_31_chrome 58.0,0.0
+categorical__id_31_chrome 59.0,0.0
+categorical__id_31_chrome 62.0 for ios,0.0
+categorical__id_31_chrome 63.0 for android,0.0
+categorical__id_31_chrome 63.0 for ios,0.0
+categorical__id_31_Samsung/SM-G531H,0.0
+categorical__id_30_other,0.0
+categorical__id_30_iOS 9.3.5,0.0
+categorical__id_30_iOS 11.2.0,0.0
+categorical__id_30_Mac OS X 10_6_8,0.0
+categorical__id_30_Mac OS X 10_7_5,0.0
+categorical__id_30_Mac OS X 10_8_5,0.0
+categorical__id_30_Mac OS X 10_9_5,0.0
+categorical__id_30_Windows 8,0.0
+categorical__id_30_Windows Vista,0.0
+categorical__id_30_Windows XP,0.0
+categorical__id_30_func,0.0
+categorical__id_30_iOS,0.0
+categorical__id_30_iOS 10.0.2,0.0
+categorical__id_30_iOS 10.1.1,0.0
+categorical__id_30_iOS 10.2.1,0.0
+categorical__id_30_iOS 10.3.3,0.0
+categorical__id_30_iOS 11.0.0,0.0
+categorical__id_30_iOS 11.0.2,0.0
+categorical__id_30_iOS 11.0.3,0.0
+categorical__id_30_iOS 11.1.1,0.0
+categorical__R_emaildomain_q.com,0.0
+categorical__R_emaildomain_ptd.net,0.0
+categorical__R_emaildomain_prodigy.net.mx,0.0
+categorical__P_emaildomain_hotmail.es,0.0
+categorical__P_emaildomain_charter.net,0.0
+categorical__P_emaildomain_cox.net,0.0
+categorical__P_emaildomain_earthlink.net,0.0
+categorical__P_emaildomain_embarqmail.com,0.0
+categorical__P_emaildomain_frontier.com,0.0
+categorical__P_emaildomain_gmx.de,0.0
+categorical__P_emaildomain_hotmail.co.uk,0.0
+categorical__P_emaildomain_hotmail.de,0.0
+categorical__P_emaildomain_juno.com,0.0
+categorical__P_emaildomain_protonmail.com,0.0
+categorical__P_emaildomain_live.com,0.0
+categorical__P_emaildomain_live.fr,0.0
+categorical__P_emaildomain_mac.com,0.0
+categorical__P_emaildomain_mail.com,0.0
+categorical__P_emaildomain_netzero.com,0.0
+categorical__P_emaildomain_netzero.net,0.0
+categorical__P_emaildomain_optonline.net,0.0
+categorical__P_emaildomain_outlook.es,0.0
+categorical__P_emaildomain_cfl.rr.com,0.0
+categorical__P_emaildomain_centurylink.net,0.0
+categorical__P_emaildomain_cableone.net,0.0
+categorical__P_emaildomain_bellsouth.net,0.0
+numeric__C3,0.0
+numeric__V1,0.0
+numeric__V2,0.0
+numeric__V27,0.0
+numeric__V28,0.0
+numeric__V41,0.0
+numeric__V65,0.0
+numeric__V68,0.0
+numeric__V88,0.0
+numeric__V89,0.0
+numeric__V107,0.0
+numeric__V240,0.0
+numeric__V241,0.0
+numeric__V305,0.0
+numeric__V325,0.0
+numeric__V328,0.0
+categorical__card6_debit or credit,0.0
+categorical__P_emaildomain_prodigy.net.mx,0.0
+categorical__P_emaildomain_ptd.net,0.0
+categorical__R_emaildomain_outlook.es,0.0
+categorical__R_emaildomain_hotmail.es,0.0
+categorical__R_emaildomain_cox.net,0.0
+categorical__R_emaildomain_earthlink.net,0.0
+categorical__R_emaildomain_embarqmail.com,0.0
+categorical__R_emaildomain_frontier.com,0.0
+categorical__R_emaildomain_gmail,0.0
+categorical__R_emaildomain_gmx.de,0.0
+categorical__R_emaildomain_hotmail.co.uk,0.0
+categorical__R_emaildomain_hotmail.de,0.0
+categorical__R_emaildomain_juno.com,0.0
+categorical__P_emaildomain_q.com,0.0
+categorical__R_emaildomain_live.com,0.0
+categorical__R_emaildomain_live.fr,0.0
+categorical__R_emaildomain_mac.com,0.0
+categorical__R_emaildomain_me.com,0.0
+categorical__R_emaildomain_msn.com,0.0
+categorical__R_emaildomain_netzero.com,0.0
+categorical__R_emaildomain_netzero.net,0.0
+categorical__R_emaildomain_optonline.net,0.0
+categorical__R_emaildomain_comcast.net,0.0
+categorical__R_emaildomain_charter.net,0.0
+categorical__R_emaildomain_cfl.rr.com,0.0
+categorical__R_emaildomain_bellsouth.net,0.0
+categorical__P_emaildomain_roadrunner.com,0.0
+categorical__P_emaildomain_rocketmail.com,0.0
+categorical__P_emaildomain_sbcglobal.net,0.0
+categorical__P_emaildomain_sc.rr.com,0.0
+categorical__P_emaildomain_servicios-ta.com,0.0
+categorical__P_emaildomain_suddenlink.net,0.0
+categorical__P_emaildomain_twc.com,0.0
+categorical__P_emaildomain_verizon.net,0.0
+categorical__P_emaildomain_web.de,0.0
+categorical__P_emaildomain_windstream.net,0.0
+categorical__P_emaildomain_yahoo.co.jp,0.0
+categorical__P_emaildomain_yahoo.co.uk,0.0
+categorical__P_emaildomain_yahoo.de,0.0
+categorical__P_emaildomain_yahoo.es,0.0
+categorical__P_emaildomain_yahoo.fr,0.0
+categorical__P_emaildomain_ymail.com,0.0
+categorical__R_emaildomain_att.net,0.0
+categorical__id_31_chrome generic for android,0.0
+categorical__id_31_edge,0.0
+categorical__id_31_edge 13.0,0.0
+categorical__DeviceInfo_F8331 Build/41.2.A.7.76,0.0
+categorical__DeviceInfo_E5606 Build/30.2.A.1.21,0.0
+categorical__DeviceInfo_E6603 Build/32.4.A.1.54,0.0
+categorical__DeviceInfo_EVA-L09 Build/HUAWEIEVA-L09,0.0
+categorical__DeviceInfo_Edison,0.0
+categorical__DeviceInfo_F3113 Build/33.2.A.4.70,0.0
+categorical__DeviceInfo_F3113 Build/33.3.A.1.97,0.0
+categorical__DeviceInfo_F3213 Build/36.1.A.1.86,0.0
+categorical__DeviceInfo_F8331,0.0
+categorical__DeviceInfo_FRD-L04 Build/HUAWEIFRD-L04,0.0
+categorical__DeviceInfo_HTC 10 Build/NRD90M,0.0
+categorical__DeviceInfo_G3123 Build/40.0.A.6.135,0.0
+categorical__DeviceInfo_G3313,0.0
+categorical__DeviceInfo_GT-I8190L Build/JZO54K,0.0
+categorical__DeviceInfo_GT-I9060M Build/KTU84P,0.0
+categorical__DeviceInfo_GT-I9500,0.0
+categorical__DeviceInfo_GT-P5113,0.0
+categorical__DeviceInfo_GT-P5210 Build/JDQ39,0.0
+categorical__DeviceInfo_GT-P5210 Build/KOT49H,0.0
+categorical__DeviceInfo_E5506 Build/29.1.A.0.101,0.0
+categorical__DeviceInfo_D6603 Build/23.5.A.1.291,0.0
+categorical__DeviceInfo_D5803 Build/23.5.A.1.291,0.0
+categorical__DeviceInfo_D5306 Build/19.4.A.0.182,0.0
+categorical__DeviceInfo_AX920,0.0
+categorical__DeviceInfo_Alcatel_4060A,0.0
+categorical__DeviceInfo_Android,0.0
+categorical__DeviceInfo_Android 4.4.2,0.0
+categorical__DeviceInfo_Android 5.1,0.0
+categorical__DeviceInfo_Android 6.0.1,0.0
+categorical__DeviceInfo_Aquaris,0.0
+categorical__DeviceInfo_BAC-L03 Build/HUAWEIBAC-L03,0.0
+categorical__DeviceInfo_BLADE A602 Build/MRA58K,0.0
+categorical__DeviceInfo_BNTV400,0.0
+categorical__DeviceInfo_BV6000,0.0
+categorical__DeviceInfo_Blade L5 Build/LMY47I,0.0
+categorical__DeviceInfo_Blade V580 Build/LMY47D,0.0
+categorical__DeviceInfo_Blade V6 Build/LRX22G,0.0
+categorical__DeviceInfo_Blade V6 Max Build/MRA58K,0.0
+categorical__DeviceInfo_CAM-L03 Build/HUAWEICAM-L03,0.0
+categorical__DeviceInfo_CHC-U03 Build/HuaweiCHC-U03,0.0
+categorical__DeviceInfo_HTC,0.0
+categorical__DeviceInfo_HTC Desire 10 lifestyle Build/MMB29M,0.0
+categorical__DeviceInfo_7055A Build/KVT49L,0.0
+categorical__DeviceInfo_KFTHWI Build/KTU84M,0.0
+categorical__DeviceInfo_KFAPWI Build/KTU84M,0.0
+categorical__DeviceInfo_KFASWI Build/LVY48F,0.0
+categorical__DeviceInfo_KFAUWI Build/LVY48F,0.0
+categorical__DeviceInfo_KFDOWI Build/LVY48F,0.0
+categorical__DeviceInfo_KFGIWI Build/LVY48F,0.0
+categorical__DeviceInfo_KFJWI,0.0
+categorical__DeviceInfo_KFSAWI,0.0
+categorical__DeviceInfo_KFTBWI Build/LVY48F,0.0
+categorical__DeviceInfo_KFTT Build/IML74K,0.0
+categorical__DeviceInfo_HTC Desire 510 Build/KOT49H,0.0
+categorical__DeviceInfo_KYOCERA-C6742A Build/LMY47V,0.0
+categorical__DeviceInfo_LG-D373 Build/KOT49I.V10a,0.0
+categorical__DeviceInfo_LG-D693n Build/LRX22G,0.0
+categorical__DeviceInfo_LG-D851,0.0
+categorical__DeviceInfo_LG-H320 Build/LRX21Y,0.0
+categorical__DeviceInfo_LG-H420 Build/LRX21Y,0.0
+categorical__DeviceInfo_LG-H500 Build/LRX21Y,0.0
+categorical__DeviceInfo_LG-H542 Build/MRA58K,0.0
+categorical__DeviceInfo_K88 Build/MMB29M,0.0
+categorical__DeviceInfo_Ilium X710 Build/MRA58K,0.0
+categorical__DeviceInfo_Ilium LT510 Build/MRA58K,0.0
+categorical__DeviceInfo_Ilium L910 Build/MRA58K,0.0
+categorical__DeviceInfo_HTC Desire 530 Build/MMB29M,0.0
+categorical__DeviceInfo_HTC Desire 626s Build/LMY47O,0.0
+categorical__DeviceInfo_HTC Desire 650 Build/MMB29M,0.0
+categorical__DeviceInfo_HTC One A9 Build/NRD90M,0.0
+categorical__DeviceInfo_HTC One M9 Build/NRD90M,0.0
+categorical__DeviceInfo_HTC U11 Build/NMF26X,0.0
+categorical__DeviceInfo_HUAWEI CUN-L03 Build/HUAWEICUN-L03,0.0
+categorical__DeviceInfo_HUAWEI RIO-L03 Build/HUAWEIRIO-L03,0.0
+categorical__DeviceInfo_HUAWEI TAG-L13 Build/HUAWEITAG-L13,0.0
+categorical__DeviceInfo_HUAWEI VNS-L21 Build/HUAWEIVNS-L21,0.0
+categorical__DeviceInfo_HUAWEI VNS-L23 Build/HUAWEIVNS-L23,0.0
+categorical__DeviceInfo_HUAWEI VNS-L53 Build/HUAWEIVNS-L53,0.0
+categorical__DeviceInfo_HUAWEI Y625-U13 Build/HUAWEIY625-U13,0.0
+categorical__DeviceInfo_Hisense F20 Build/MMB29M,0.0
+categorical__DeviceInfo_Hisense L675 Build/MRA58K,0.0
+categorical__DeviceInfo_ILIUM,0.0
+categorical__DeviceInfo_Ilium L1120 Build/NRD90M,0.0
+categorical__DeviceInfo_ALE-L21 Build/HuaweiALE-L21,0.0
+categorical__DeviceInfo_5080A Build/MRA58K,0.0
+categorical__id_31_edge 14.0,0.0
+categorical__id_33_1344x840,0.0
+categorical__id_33_1200x675,0.0
+categorical__id_33_1280x1024,0.0
+categorical__id_33_1280x1025,0.0
+categorical__id_33_1280x600,0.0
+categorical__id_33_1280x768,0.0
+categorical__id_33_1280x960,0.0
+categorical__id_33_1281x801,0.0
+categorical__id_33_1344x756,0.0
+categorical__id_33_1356x900,0.0
+categorical__id_33_1728x972,0.0
+categorical__id_33_1360x768,0.0
+categorical__id_33_1366x768,0.0
+categorical__id_33_1400x1050,0.0
+categorical__id_33_1480x720,0.0
+categorical__id_33_1536x864,0.0
+categorical__id_33_1600x1000,0.0
+categorical__id_33_1600x1200,0.0
+categorical__id_33_1600x900,0.0
+categorical__id_33_1152x864,0.0
+categorical__id_33_1152x720,0.0
+categorical__id_33_1024x768,0.0
+categorical__id_33_1024x640,0.0
+categorical__id_31_firefox 47.0,0.0
+categorical__id_31_firefox 52.0,0.0
+categorical__id_31_firefox 55.0,0.0
+categorical__id_31_firefox 56.0,0.0
+categorical__id_31_firefox generic,0.0
+categorical__id_31_ie,0.0
+categorical__id_31_ie 11.0 for tablet,0.0
+categorical__id_31_mobile,0.0
+categorical__id_31_mobile safari 8.0,0.0
+categorical__id_31_mobile safari generic,0.0
+categorical__id_31_opera,0.0
+categorical__id_31_other,0.0
+categorical__id_31_samsung browser 4.0,0.0
+categorical__id_31_samsung browser 5.4,0.0
+categorical__id_31_samsung browser 6.2,0.0
+categorical__id_31_silk,0.0
+categorical__id_31_waterfox,0.0
+categorical__id_33_1624x1080,0.0
+categorical__id_33_1800x1125,0.0
+categorical__DeviceInfo_5054N,0.0
+categorical__id_33_4096x2304,0.0
+categorical__id_33_3200x1800,0.0
+categorical__id_33_3200x2000,0.0
+categorical__id_33_3201x1800,0.0
+categorical__id_33_3360x1890,0.0
+categorical__id_33_3360x2100,0.0
+categorical__id_33_3440x1440,0.0
+categorical__id_33_3441x1440,0.0
+categorical__id_33_3840x2400,0.0
+categorical__id_33_5120x2880,0.0
+categorical__id_33_1920x1281,0.0
+categorical__id_33_855x480,0.0
+categorical__id_33_960x540,0.0
+categorical__id_33_960x640,0.0
+categorical__DeviceInfo_2PS64 Build/NRD90M,0.0
+categorical__DeviceInfo_5010S Build/MRA58K,0.0
+categorical__DeviceInfo_5012G Build/MRA58K,0.0
+categorical__DeviceInfo_5025G Build/LMY47I,0.0
+categorical__DeviceInfo_5051A Build/MMB29M,0.0
+categorical__id_33_3000x2000,0.0
+categorical__id_33_2961x1442,0.0
+categorical__id_33_2960x1440,0.0
+categorical__id_33_2880x1620,0.0
+categorical__id_33_2000x1125,0.0
+categorical__id_33_2001x1125,0.0
+categorical__id_33_2048x1152,0.0
+categorical__id_33_2049x1152,0.0
+categorical__id_33_2112x1188,0.0
+categorical__id_33_2160x1440,0.0
+categorical__id_33_2220x1080,0.0
+categorical__id_33_2224x1668,0.0
+categorical__id_33_2304x1440,0.0
+categorical__id_33_2400x1350,0.0
+categorical__id_33_2400x1600,0.0
+categorical__id_33_2560x1080,0.0
+categorical__id_33_2560x1600,0.0
+categorical__id_33_2562x1442,0.0
+categorical__id_33_2672x1440,0.0
+categorical__id_33_2732x2048,0.0
+categorical__id_33_2736x1824,0.0
+categorical__DeviceInfo_rv:58.0,0.0
